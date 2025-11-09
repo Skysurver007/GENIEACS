@@ -1,6 +1,6 @@
 sudo apt-get install dos2unix
 
-git clone https://github.com/kamandanuX/axcxsx
+git clone https://github.com/Skysurver007/GENIEACS
 
 cd axcxsx
 
