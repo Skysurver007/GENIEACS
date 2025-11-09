@@ -16,6 +16,8 @@ PasswordAuthentication yes
 # PermitRootLogin prohibit-password
 # PasswordAuthentication no
 
+sudo systemctl restart sshd
+
 
 
 #GANTI REPOSITORI   IKUTI  PANDUAN DI  https://github.com/Skysurver007/LINUX
